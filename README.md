@@ -1,5 +1,7 @@
 # agnoster.zsh-theme
 
+> This repository is a fork of https://github.com/agnoster/agnoster-zsh-theme
+
 A ZSH theme optimized for people who use:
 
 - Solarized
